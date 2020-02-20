@@ -1,0 +1,11 @@
+.cardInfo {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin: 10px;
+    padding: 20px;
+    width: 100%;
+    flex: 1 0 40%;
+}
